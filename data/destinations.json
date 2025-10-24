@@ -1,0 +1,36 @@
+[
+    {
+      "id": "goa",
+      "title": "Goa, India",
+      "duration": "5D/4N",
+      "image": "images/goa.jpg",
+      "description": "Experience the sun, sand, and vibrant nightlife of Goa.",
+      "highlights": ["Beach hopping", "Water sports", "Night life"],
+      "itinerary": ["Day 1: Arrival & leisure", "Day 2: North Goa sightseeing", "Day 3: Water sports", "Day 4: Beach hopping", "Day 5: Departure"],
+      "rating": 4.7,
+      "reviews": [{"user":"Ananya","comment":"Perfect getaway!"},{"user":"Ravi","comment":"Relaxing and fun!"}]
+    },
+    {
+      "id": "dubai",
+      "title": "Dubai, UAE",
+      "duration": "4D/5N",
+      "image": "images/dubai.jpg",
+      "description": "A luxurious desert city with world-class experiences.",
+      "highlights": ["Burj Khalifa", "Desert Safari", "Dhow Cruise"],
+      "itinerary": ["Day 1: Arrival & leisure","Day 2: City tour","Day 3: Desert Safari","Day 4: Dhow Cruise","Day 5: Departure"],
+      "rating": 4.8,
+      "reviews": [{"user":"Sara","comment":"Loved every moment!"}]
+    },
+    {
+      "id": "andaman",
+      "title": "Andaman, India",
+      "duration": "3D/4N",
+      "image": "images/andaman.jpg",
+      "description": "White sands, crystal-clear waters and amazing snorkeling.",
+      "highlights": ["Havelock Island", "Radhanagar Beach", "Coral reefs"],
+      "itinerary": ["Day 1: Arrival & beach","Day 2: Snorkeling","Day 3: Sightseeing","Day 4: Departure"],
+      "rating": 4.9,
+      "reviews": [{"user":"Rina","comment":"A paradise on Earth!"}]
+    }
+  ]
+  
